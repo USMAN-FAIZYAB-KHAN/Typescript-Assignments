@@ -1,2 +1,2 @@
 # Typescript
-assignments of typescript
+All exercises are done in a single file
